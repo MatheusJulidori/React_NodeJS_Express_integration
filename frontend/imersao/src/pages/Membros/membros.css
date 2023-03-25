@@ -1,0 +1,18 @@
+.page-title{
+    color: #44759B;  
+    font-size: 45px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.page-container{
+    padding: 0px 30px;
+}
+
+.table-header th{
+    color: #44759B;
+}
+
+.table-body th, .table-body td  {
+    color: #FFA700;
+}
