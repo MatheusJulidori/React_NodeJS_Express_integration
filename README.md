@@ -1,2 +1,3 @@
-# RG_CP2_API
-Repo com código exemplo de uma integração básica de front e back usando API REST
+# Integrating React JS frontend with NodeJS/ExpressJS API
+
+Repo with example code of a basic front and back integration using REST API
